@@ -39,7 +39,7 @@ A food ordering website featuring a dynamic menu, shopping cart, checkout, user 
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-[View Project](blaze.42web.io)
+[View Project](https://blaze.42web.io)
 
 ### 👗 Orbit — Fashion E-commerce
 A fashion e-commerce website focused on responsive layouts and interactive shopping experiences.
