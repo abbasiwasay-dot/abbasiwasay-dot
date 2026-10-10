@@ -39,29 +39,22 @@ A food ordering website featuring a dynamic menu, shopping cart, checkout, user 
 
 **Technologies:** HTML, CSS, JavaScript, PHP, MySQL
 
-[View Project](https://github.com/YOUR_USERNAME/YOUR_BLAZE_REPO)
+[View Project](blaze.42web.io)
 
 ### 👗 Orbit — Fashion E-commerce
 A fashion e-commerce website focused on responsive layouts and interactive shopping experiences.
 
 **Technologies:** HTML, CSS, JavaScript
 
-[View Project](https://github.com/abbasiwasay-dot/YOUR_ORBIT_REPO)
-
-### 🎓 Student Management System
-A frontend project for presenting and managing student-related information through a user interface.
-
-**Technologies:** HTML, CSS, JavaScript
-
-[View Project](https://github.com/abbasiwasay-dot/YOUR_STUDENT_REPO)
+[View Project](https://abbasiwasay-dot.github.io/orbit-shopping/)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abbasiwasay-dot&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abbasiwasay-dot&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
