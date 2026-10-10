@@ -1,3 +1,5 @@
+
+![My GitHub Banner](github profile image.jpg)
 # Hey, I'm Abdul 👋
 
 ### 💻 Web Developer | Building for the Web
