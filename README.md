@@ -2,6 +2,8 @@
 <p align="center">
   <img src="githubbanner.jpg" width="100%" alt="GitHub Banner">
 </p>
+
+
 # Hey, I'm Abdul 👋
 
 ### 💻 Web Developer | Building for the Web
