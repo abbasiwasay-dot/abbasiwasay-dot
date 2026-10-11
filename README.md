@@ -1,5 +1,5 @@
 
-![My GitHub Banner](github profile image.jpg)
+![My GitHub Banner](githubbanner.jpg)
 # Hey, I'm Abdul 👋
 
 ### 💻 Web Developer | Building for the Web
