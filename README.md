@@ -1,5 +1,8 @@
 
 ![My GitHub Banner](githubbanner.jpg)
+<p align="center">
+  <img src="github-banner.jpg" width="100%" alt="GitHub Banner">
+</p>
 # Hey, I'm Abdul 👋
 
 ### 💻 Web Developer | Building for the Web
