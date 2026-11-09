@@ -54,6 +54,13 @@ A fashion e-commerce website focused on responsive layouts and interactive shopp
 
 [View Project](https://abbasiwasay-dot.github.io/orbit-shopping/)
 
+### 👗 Metro Shoes E-Commerce Website Clone
+A responsive shoe e-commerce website clone featuring a clean UI and modern product layouts
+
+**Technologies:** HTML, CSS, JavaScript
+
+[View Project](https://abbasiwasay-dot.github.io/METRO-/)
+
 ---
 
 ## 📊 GitHub Stats
